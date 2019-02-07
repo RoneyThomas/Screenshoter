@@ -1,0 +1,21 @@
+{
+  "name": "screenshoter",
+  "version": "1.0.0",
+  "description": "Screenshot websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https:github.com/src"
+  },
+  "keywords": [
+    "screenshot"
+  ],
+  "author": "RoneyThomas",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.12.2"
+  }
+}
